@@ -1,0 +1,34 @@
+src/*.exe
+src/eprcoin
+src/eprcoind
+src/test_eprcoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.eprcoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+eprcoin-qt
+EPRCOIN-Qt.app
+
+# Unit-tests
+Makefile.test
+eprcoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile

@@ -1,0 +1,9 @@
+Building EPRCOIN
+
+See doc/readme-qt.rst for instructions on building EPRCOIN-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of EPRCOIN.
+
+See doc/build-*.txt for instructions on building eprcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of EPRCOIN.
