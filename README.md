@@ -10,7 +10,7 @@ EPRCOIN is a lite version of Litecoin using scrypt as a proof-of-work algorithm.
 
 #How are they used? The EPR coins are used by EPR community members for EPR services and to store and invest the wealth in a non-government controlled currency. The EPR coins will also be used as payment system on number of EPR partner websites.
 
-#How are they produced? EPR coin uses a special algorithm called the POW to secure the EPR Coin network. All you have to do to earn with this method is to hold coins in your EPR-QT wallet. In addition to PoS minting, EPR coin can be mined with CPU/GPU and does not need an ASIC miner like Bitcoin does.
+#How are they produced? EPR coin uses a special algorithm called the POW to secure the EPR Coin network. All you have to do to earn with this method is to hold coins in your EPR-QT wallet. EPR coin can be mined with CPU/GPU and does not need an ASIC miner like Bitcoin does.
 
 #Download Wallet HOW TO SET UP EPR COIN WALLET ON WINDOWS OPERATING SYSTEM?
 
